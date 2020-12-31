@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my github account 😜</h1>
 
 ```
-I am experienced full stack web developer with bsc computer science degree.
+I am an experienced full stack web developer with bsc in computer science degree.
 Passionate about modern technologies and writing clean code.
 ```
 
