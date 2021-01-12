@@ -5,7 +5,7 @@ I am an experienced full stack web developer with bsc in computer science degree
 Passionate about modern technologies and writing clean code.
 ```
 
--  I’m currently working on <b>LocalPosts</b> project.
+-  I’m currently working on <b>LocalPosts</b> <b>/LocalPostsBackend</b> projects.
 
 <h3 align="center">Technologies:</h3>
 <p align="center">
