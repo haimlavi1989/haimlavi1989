@@ -9,7 +9,7 @@ Passionate about modern technologies and writing clean code.
 
 <h3 align="center">Technologies:</h3>
 <p align="center">
-<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="NodeJs" width="40" height="40"/>  
+<img src="https://drive.google.com/file/d/1YmOefMsBMvidh7nzHARzCmzYZWAYRZwF/view?usp=sharing" alt="LocalPosts" width="40" height="40"/>  
 <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="MongodB" width="40" height="40"/>  
 <img src="https://material.angularjs.org/1.0.9/img/icons/angular-logo.svg" alt="Angular" width="40" height="40"/>   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/>
