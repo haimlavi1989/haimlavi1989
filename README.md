@@ -15,6 +15,6 @@ Passionate about modern technologies and writing clean code.
 <img src="https://raw.githubusercontent.com/aleksandryackovlev/openapi-mock-express-middleware/master/assets/express-logo.png" alt="Express" width="120" height="40"/>
 <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="MongodB" width="40" height="40"/>
 <img src="https://material.angularjs.org/1.0.9/img/icons/angular-logo.svg" alt="Angular" width="40" height="40"/>  
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>  
 <img src="https://sdtimes.com/wp-content/uploads/2018/09/1_JsyV8lXMuTbRVLQ2FPYWAg.png" alt="Typescript" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>  
 </p>
