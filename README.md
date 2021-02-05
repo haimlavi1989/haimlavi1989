@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to my github account 😜</h1>
+<h1 align="center">👋 Hi, I'm Haim Lavi</h1>
 
 ```
-I am an experienced full stack web developer with bsc in computer science degree.
+Pleased to meet you. I'm an experienced full stack web developer with bsc in computer science degree 🎓💻.
 Passionate about modern technologies and writing clean code.
 ```
 
