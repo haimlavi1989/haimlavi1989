@@ -7,7 +7,7 @@ Passionate about modern technologies and writing clean code.
 
 -  I’m currently working on <b>LocalPosts</b>/<b>LocalPostsBackend</b> projects.
 
-<h3 align="center">Technologies:</h3>
+<h3>Technologies:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -25,12 +25,8 @@ Passionate about modern technologies and writing clean code.
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 <div>
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimlavi1989&layout=compact&theme=dark" />
-  </p>
-  <p>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimlavi1989&layout=compact&theme=dark" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haimlavi1989&show_icons=true&theme=dark" />
-  </p>
 </div>  
 
 
