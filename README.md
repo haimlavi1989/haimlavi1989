@@ -1,9 +1,7 @@
-<h1 align="center">👋 Hi, I'm Haim Lavi</h1>
+<h1>👋 Hi, I'm Haim Lavi 🎓💻</h1>
 
-```
-Pleased to meet you. I'm an experienced full stack web developer with bsc in computer science degree 🎓💻.
+Pleased to meet you. I'm an experienced full stack web developer with bsc in computer science degree.
 Passionate about modern technologies and writing clean code.
-```
 
 -  I’m currently working on <b>LocalPosts</b>/<b>LocalPostsBackend</b> projects.
 
@@ -29,4 +27,6 @@ Passionate about modern technologies and writing clean code.
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haimlavi1989&show_icons=true&theme=dark" />
 </div>  
 
+<h3>Contact me:</h3>
+<a href="https://www.linkedin.com/in/haimlavi"><img src="https://img.shields.io/badge/-Haim Lavi-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
