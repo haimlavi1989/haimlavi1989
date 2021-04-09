@@ -10,7 +10,7 @@ Passionate about modern technologies and writing clean code.
 <h3>Technologies:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript_ES6-333333?style=flat&logo=javascript) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) 
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
