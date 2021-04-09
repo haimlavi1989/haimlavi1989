@@ -28,5 +28,6 @@ Passionate about modern technologies and writing clean code.
 </div>  
 
 <h3>Contact me:</h3>
-<a href="https://www.linkedin.com/in/haimlavi"><img src="https://img.shields.io/badge/-Haim Lavi-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a><a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=haimlavi1989@gmail.com&su=SUBJECT&body=BODY&tf=1"><img src="https://img.shields.io/badge/-Haim Lavi-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/haimlavi"><img src="https://img.shields.io/badge/-Haim Lavi-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a> 
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=haimlavi1989@gmail.com&su=SUBJECT&body=BODY&tf=1"><img src="https://img.shields.io/badge/-Haim Lavi-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
