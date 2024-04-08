@@ -1,9 +1,7 @@
 <h1>👋 Hi, I'm Haim Lavi 🎓💻</h1>
-
-Pleased to meet you. I'm an experienced full stack web developer with bsc in computer science degree.
-Passionate about modern technologies and writing clean code.
-
--  I’m currently working on <b>LocalPosts</b>/<b>LocalPostsBackend</b> projects.
+Experienced Full Stack Engineer, with BSC in Computer Science degree and extensive background building end to end web application from scratch to production deployment.
+I am passionate about modern technologies and writing readable, reusable, maintainable, 
+scalable, and secure code.
 
 <h3>Technologies:</h3>
 
