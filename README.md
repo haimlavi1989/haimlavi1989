@@ -49,8 +49,8 @@ I thrive in **fast-paced, forward-thinking environments** where I can build **hi
 ---
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimlavi1989&layout=compact&theme=dark" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haimlavi1989&show_icons=true&theme=dark" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimlavi1989&layout=compact&theme=dracula" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haimlavi1989&show_icons=true&theme=dracula" />
 </div>  
 
 ---
