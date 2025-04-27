@@ -10,6 +10,14 @@ _These values define who I am._
 
 ---
 
+<div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimlavi1989&layout=compact&theme=dracula" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haimlavi1989&show_icons=true&theme=dracula" />
+</div>  
+
+---
+
+---
 ## About Me
 
 I'm an experienced **Software Engineer** based in **Ra’anana**, with **6+ years** of expertise in designing and building **scalable**, **distributed systems** and **cloud-native platforms** that power **AI/ML** and **Data Science** workflows.
@@ -46,14 +54,6 @@ I thrive in **fast-paced, forward-thinking environments** where I can build **hi
 - Microservices
 - Event-Driven Systems
 
----
-
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimlavi1989&layout=compact&theme=dracula" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haimlavi1989&show_icons=true&theme=dracula" />
-</div>  
-
----
 
 ## Beyond Code
 
