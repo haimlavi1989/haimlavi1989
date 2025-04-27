@@ -17,7 +17,6 @@ _These values define who I am._
 
 ---
 
----
 ## About Me
 
 I'm an experienced **Software Engineer** based in **Ra’anana**, with **6+ years** of expertise in designing and building **scalable**, **distributed systems** and **cloud-native platforms** that power **AI/ML** and **Data Science** workflows.
