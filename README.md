@@ -1,11 +1,6 @@
-<p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1I9re8CmPiyD1ILo-6WB2uC-p8tf5-QZe">
-</p>  
 
 <p align="center">
-   ht
-  <img src="tps://drive.google.com/file/d/1JkFu-9ITiGrOWljC73YT1TwOhCMxSVkl/view?usp=drive_link" width="100%">
-   <img src="https://drive.google.com/file/d/1JkFu-9ITiGrOWljC73YT1TwOhCMxSVkl/view?usp=sharing" width="100%">
+   <img src="https://drive.google.com/uc?export=view&id=1JkFu-9ITiGrOWljC73YT1TwOhCMxSVkl" width="100%">
 </p>
 
 # 👋 Hi, I'm Haim!
