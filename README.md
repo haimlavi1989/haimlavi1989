@@ -8,10 +8,6 @@
 ### Determination 🏆💪🏽 | Responsibility ⚠️✔️ | Thoroughness 🔬📊  
 _These values define who I am._
 
-Staying persistent to achieve goals.
-Responsibility: Owning tasks from start to finish.
-Thoroughness: Paying attention to every detail.
-
 ---
 
 ## About Me
