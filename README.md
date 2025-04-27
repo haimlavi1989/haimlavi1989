@@ -8,6 +8,10 @@
 ### Determination 🏆💪🏽 | Responsibility ⚠️✔️ | Thoroughness 🔬📊  
 _These values define who I am._
 
+Staying persistent to achieve goals.
+Responsibility: Owning tasks from start to finish.
+Thoroughness: Paying attention to every detail.
+
 ---
 
 ## About Me
@@ -20,13 +24,6 @@ I have a strong background in **Node.js**, **event-driven architectures**, and *
 - Improving system reliability
 
 I thrive in **fast-paced, forward-thinking environments** where I can build **high-impact solutions** that truly make a difference.
-
----
-
-## My Values
-- 🏆 **Determination**: Staying persistent to achieve goals.
-- ⚠️ **Responsibility**: Owning tasks from start to finish.
-- 🔬 **Thoroughness**: Paying attention to every detail.
 
 ---
 
@@ -55,6 +52,13 @@ I thrive in **fast-paced, forward-thinking environments** where I can build **hi
 
 ---
 
+<div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimlavi1989&layout=compact&theme=dark" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haimlavi1989&show_icons=true&theme=dark" />
+</div>  
+
+---
+
 ## Beyond Code
 
 When I'm not coding, I love:
@@ -67,11 +71,6 @@ When I'm not coding, I love:
 
 For me, **life is all about balance**:  
 Exploring the world, savoring great food, maintaining a healthy lifestyle, and **always growing** — personally and professionally.
-
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimlavi1989&layout=compact&theme=dark" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haimlavi1989&show_icons=true&theme=dark" />
-</div>  
 
 <h3>Contact me:</h3>
 <a href="https://www.linkedin.com/in/haimlavi"><img src="https://img.shields.io/badge/-Haim Lavi-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a> 
