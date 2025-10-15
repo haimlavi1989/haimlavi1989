@@ -34,7 +34,6 @@ I thrive in **fast-paced, forward-thinking environments** where I can build **hi
 
 ### 🛠 Languages & Frameworks
 - JavaScript / Node.js
-- TypeScript / Angular
 - Python
 
 ### ⚙️ Infrastructure & DevOps
@@ -53,8 +52,9 @@ I thrive in **fast-paced, forward-thinking environments** where I can build **hi
 - Microservices
 - Event-Driven Systems
 
-
 ## Beyond Code
+
+**life is all about balance**:
 
 When I'm not coding, I love:
 - ✈️ Traveling and exploring new places
@@ -63,9 +63,6 @@ When I'm not coding, I love:
 - 💪 Staying active and working out
 - 📚 Constantly learning through books, courses, and hands-on experiences
 - 🍿 Watching movies to unwind
-
-For me, **life is all about balance**:  
-Exploring the world, savoring great food, maintaining a healthy lifestyle, and **always growing** — personally and professionally.
 
 <h3>Contact me:</h3>
 <a href="https://www.linkedin.com/in/haimlavi"><img src="https://img.shields.io/badge/-Haim Lavi-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a> 
