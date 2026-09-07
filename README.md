@@ -16,42 +16,6 @@ _These values define who I am._
 </div>  
 
 ---
-
-## About Me
-
-I'm an experienced **Software Engineer** based in **Ra’anana**, with **6+ years** of expertise in designing and building **scalable**, **distributed systems** and **cloud-native platforms** that power **AI/ML** and **Data Science** workflows.
-
-I have a strong background in **Node.js**, **event-driven architectures**, and **microservices**, with a proven track record of:
-- Optimizing performance
-- Reducing operational costs
-- Improving system reliability
-
-I thrive in **fast-paced, forward-thinking environments** where I can build **high-impact solutions** that truly make a difference.
-
----
-
-## Tech Stack
-
-### 🛠 Languages & Frameworks
-- JavaScript / Node.js
-- Python
-
-### ⚙️ Infrastructure & DevOps
-- Docker
-- CI/CD Pipelines
-- Google Cloud Platform (GCP)
-
-### 📡 Databases & Caching
-- PostgreSQL
-- MongoDB
-- BigQuery
-- Redis
-
-### 🌐 APIs & Architectures
-- RESTful APIs
-- Microservices
-- Event-Driven Systems
-
 ## Beyond Code
 
 **life is all about balance**:
